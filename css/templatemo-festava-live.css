@@ -331,9 +331,6 @@ strong {
 /*---------------------------------------
   VIDEO              
 -----------------------------------------*/
-.video-wrap {
-  z-index: -100;
-}
 
 .custom-video {
   position: absolute;
