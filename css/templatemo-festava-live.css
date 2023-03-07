@@ -899,6 +899,10 @@ strong {
   display: block;
 }
 
+.pleaseDoNotCopyThisWebsite {
+	border-radius: 30px;
+}
+
 .social-icon-link span:hover::before{
   animation: spinAround 2s linear infinite;
 }
